@@ -1,5 +1,5 @@
 import React from "react";
-import './LicenseText.css'
+import './Main.css'
 
 const Main = () => {
 
